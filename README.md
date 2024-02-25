@@ -13,7 +13,7 @@ Mehta, D., Kosaraju, K., and Krovi, V., "Actively Articulated Wheeled Architectu
 In order to operate he Uniree Go1 Edu robot - make sure to hang it initially using a harness to avoid any damage. Unitree Go1 by default comes with ROS/ROS2 enabled services. Details are given in the following link
 https://github.com/unitreerobotics/unitree_legged_sdk
 
-In order to connect to he robot and operate it using Python APIs, connect the Go1 Robot via Ethernet and follow he insructions below:
+In order to connect to he robot and operate it using Python APIs, connect the Go1 Robot via Ethernet and follow the insructions below:
 # Commands
 Run this command after you plug in the Ethernet Port,
 You can find an extra device ID. For example, enpxxx
