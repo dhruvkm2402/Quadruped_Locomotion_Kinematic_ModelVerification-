@@ -17,13 +17,13 @@ In order to connect to he robot and operate it using Python APIs, connect the Go
 # Commands
 Run this command after you plug in the Ethernet Port,
 You can find an extra device ID. For example, enpxxx
-ifconfig
-sudo ifconfig enpxxx down # enpxxx is your PC usb port
-sudo ifconfig enpxxx 192.168.123.162/24
-sudo ifconfig enpxxx up
-ping 192.168.123.161
+ifconfig <br />
+sudo ifconfig enpxxx down # enpxxx is your PC usb port <br />
+sudo ifconfig enpxxx 192.168.123.162/ <br />
+sudo ifconfig enpxxx up <br />
+ping 192.168.123.161 <br />
 
-After connecting, run the following command:
+After connecting, run the following command: <br />
 python3 Quadruped_Kinemaics/Kinematics_DHP.py
 
 This repo is under active development. 
