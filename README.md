@@ -10,7 +10,7 @@ https://github.com/dhruvkm2402/Quadruped_Locomotion_Kinematic_ModelVerification-
 If you find the work useful, kindly cite the following paper:
 Mehta, D., Kosaraju, K., and Krovi, V., "Actively Articulated Wheeled Architectures for Autonomous Ground Vehicles - Opportunities and Challenges," SAE Technical Paper 2023-01-0109, 2023, https://doi.org/10.4271/2023-01-0109.
 
-In order to operate he Uniree Go1 Edu robot - make sure to hang it initially using a harness to avoid any damage. Unitree Go1 by default comes with ROS/ROS2 enabled services. Details are given in the following link
+In order to operate the Uniree Go1 Edu robot - make sure to hang it initially using a harness to avoid any damage. Unitree Go1 by default comes with ROS/ROS2 enabled services. Details are given in the following link
 https://github.com/unitreerobotics/unitree_legged_sdk
 
 In order to connect to he robot and operate it using Python APIs, connect the Go1 Robot via Ethernet and follow the insructions below:
