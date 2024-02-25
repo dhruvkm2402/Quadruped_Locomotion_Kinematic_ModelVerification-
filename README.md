@@ -24,6 +24,6 @@ sudo ifconfig enpxxx up <br />
 ping 192.168.123.161 <br />
 
 After connecting, run the following command: <br />
-python3 Quadruped_Kinemaics/Kinematics_DHP.py
+python3 Quadruped_Kinemaics/kinematic_DHP.py
 
 This repo is under active development. 
